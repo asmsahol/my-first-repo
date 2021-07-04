@@ -2,7 +2,7 @@ h2{
     color: aqua;
     background-color: blueviolet;
     img{
-        width: 100%;
+        width: 500px;
         padding: 20px;
     };
 }
